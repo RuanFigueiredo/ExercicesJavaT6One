@@ -8,7 +8,7 @@ public class Read {
         System.out.println("what is the year of release: ");
         int yearRelease = read.nextInt();
         System.out.println("Film note");
-        int filmNote = read.nextInt();
+        double filmNote = read.nextInt();
         System.out.println(yearRelease);
         System.out.println(movie);
         System.out.println(filmNote);
